@@ -1,5 +1,5 @@
 print('Hello world!')
 #Dette er min første prøve
 
-''' enda mer testing av koser og
+''' enda mer testing av koder og
 test'''
